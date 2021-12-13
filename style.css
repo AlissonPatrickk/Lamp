@@ -1,0 +1,21 @@
+header, main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+    color: aqua;
+    font-size: 5vh;
+}
+button{
+    width: 150px;
+    font-size: 2.5vh;
+    display: table-row;
+    border-radius: 12px;
+    background-color: aqua;
+    border:none;
+    padding: 15px;
+    color: azure;
+    margin: 10px;
+    
+
+}
